@@ -1,8 +1,13 @@
 # PenTools
-Penetration Testing tools and scripts, prep for OSCP
 
-## LinPEAS HTTP Host
-** Automatically host LinPEAS on a python HTTP server to call during privilege escalation.
+A collection of penetration testing scripts to speed up penetation testing as I prep for OSCP exam.
 
-## XSSTest.py
-** Automatically test for XSS Vulnerabilities to a target URL 
+## Tools
+
+### LinPEAS HTTP Host
+
+Automatically hosts LinPEAS on a Python HTTP server to assist with privilege escalation.
+
+### XSSTest.py
+
+Automates testing for XSS vulnerabilities on target URLs.
