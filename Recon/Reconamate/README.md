@@ -49,7 +49,7 @@ Follow the steps below to install Reconamate and all its dependencies.
 Begin by cloning the Reconamate repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Reconamate.git
+git clone https://github.com/CBMW/PenTools/Reconamate/Reconamate.git
 cd Reconamate
 ```
 
