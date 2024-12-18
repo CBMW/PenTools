@@ -7,7 +7,6 @@
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-  - [1. Clone the Repository](#1-clone-the-repository)
   - [2. Run the Installation Script](#2-run-the-installation-script)
 - [Configuration](#configuration)
   - [Setting Up Environment Variables](#setting-up-environment-variables)
@@ -41,18 +40,7 @@ Before installing Reconamate, ensure that your system meets the following requir
 
 ## Installation
 
-Follow the steps below to install Reconamate and all its dependencies.
-
-### 1. Clone the Repository
-
-Begin by cloning the Reconamate repository to your local machine:
-
-```bash
-git clone https://github.com/CBMW/PenTools/Reconamate/Reconamate.git
-cd Reconamate
-```
-
-### 2. Run the Installation Script
+## Run the Installation Script
 
 Reconamate provides an installation script, `ReconamateInstall.sh`, which automates the installation of all required tools and dependencies.
 
