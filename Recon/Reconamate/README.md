@@ -198,44 +198,6 @@ Reconamate integrates a suite of reconnaissance tools to provide a comprehensive
 - **Aquatone:** Subdomain screenshotting and HTTP enumeration.
 - **Subjack:** Detects potential subdomain takeovers.
 
-## Contributing
-
-Contributions are welcome! Follow these steps to contribute:
-
-1. **Fork the Repository:**
-
-   Click the "Fork" button on the repository's GitHub page.
-
-2. **Clone Your Fork:**
-
-   ```bash
-   git clone https://github.com/yourusername/Reconamate.git
-   cd Reconamate
-   ```
-
-3. **Create a New Branch:**
-
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-
-4. **Make Changes and Commit:**
-
-   ```bash
-   git add .
-   git commit -m "Add your descriptive commit message"
-   ```
-
-5. **Push to Your Fork:**
-
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-
-6. **Create a Pull Request:**
-
-   Navigate to your fork on GitHub and click "Compare & pull request" to submit your changes.
-
 ## License
 
 Reconamate is released under the [MIT License](LICENSE). You are free to use, modify, and distribute this software in accordance with the terms of the license.
