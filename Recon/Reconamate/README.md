@@ -242,7 +242,7 @@ Reconamate is released under the [MIT License](LICENSE). You are free to use, mo
 
 ## Support
 
-For support, questions, or issues, please open an [issue](https://github.com/yourusername/Reconamate/issues) on the Reconamate GitHub repository.
+For support, questions, or issues, please open an [issue](https://github.com/CBMW/PenTools/Reconamate/issues) on the Reconamate GitHub repository.
 
 ---
 
