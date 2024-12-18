@@ -18,7 +18,6 @@
   - [Report](#report)
   - [Individual Tool Outputs](#individual-tool-outputs)
 - [Integrated Tools](#integrated-tools)
-- [Contributing](#contributing)
 - [License](#license)
 - [Support](#support)
 
